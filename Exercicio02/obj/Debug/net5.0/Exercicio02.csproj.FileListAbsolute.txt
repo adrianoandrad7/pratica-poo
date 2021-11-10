@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.exe
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.deps.json
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.runtimeconfig.json
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.dll
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\ref\Exercicio02.dll
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\bin\Debug\net5.0\Exercicio02.pdb
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.dll
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\ref\Exercicio02.dll
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.pdb
+C:\Users\HP\Desktop\Projetos\Poo\Exercicio02\obj\Debug\net5.0\Exercicio02.genruntimeconfig.cache
