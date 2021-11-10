@@ -37,7 +37,7 @@ namespace Exercicio03
         }
         
         public string detalhes(){
-            return $" Titulo: {Titulo},\n Autor: {Autor},\n Total de Paginas: {ToPaginas},\n Página Atual: {PagAtual},\n Aberto: {Aberto},\n Leitor: {Leitor.Nome}";
+            return $" Titulo: {Titulo},\n Autor: {Autor},\n Total de Paginas: {ToPaginas},\n Página Atual: {PagAtual},\n Aberto: {Aberto},\n Leitor: {Leitor.Nome},\n Sexo: {Leitor.Sexo}";
         }
         public void abrir()
         {

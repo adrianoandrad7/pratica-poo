@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio03\\Exercicio03.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio04\\Exercicio04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio03\\Exercicio03.csproj": {
+    "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio04\\Exercicio04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio03\\Exercicio03.csproj",
-        "projectName": "Exercicio03",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio03\\Exercicio03.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio04\\Exercicio04.csproj",
+        "projectName": "Exercicio04",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio04\\Exercicio04.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio03\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Projetos\\Poo\\Pratica-Poo\\Exercicio04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
