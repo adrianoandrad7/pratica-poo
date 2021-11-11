@@ -10,12 +10,12 @@ namespace Exercicio06
         private int Curtidadas;
         private bool reproduzindo;
 
-        private bool GetReproduzindo()
+        public bool GetReproduzindo()
         {
             return reproduzindo;
         }
 
-        private void SetReproduzindo(bool value)
+        public void SetReproduzindo(bool value)
         {
             reproduzindo = value;
         }
@@ -29,16 +29,9 @@ namespace Exercicio06
             reproduzindo = false;
         }
 
-      
-
         public string GetTitulo()
         {
             return Titulo;
-        }
-
-        public void Play()
-        {
-            SetReproduzindo(true);
         }
 
         public void SetTitulo(string value)
@@ -53,6 +46,8 @@ namespace Exercicio06
 
         public void SetAvalicao(int value)
         {
+            int nova;
+            nova = Avalicao + value / Views;
             Avalicao = value;
         }
         public int GetViews()
