@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.exe
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.deps.json
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.runtimeconfig.json
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.dll
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\bin\Debug\netcoreapp3.1\AppImpostoRenda.pdb
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.AssemblyInfo.cs
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.dll
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.pdb
+C:\Users\HP\Desktop\ExerciciosHerancaPolimorfismo\AppImpostoRenda\AppImpostoRenda\AppImpostoRenda\obj\Debug\netcoreapp3.1\AppImpostoRenda.genruntimeconfig.cache

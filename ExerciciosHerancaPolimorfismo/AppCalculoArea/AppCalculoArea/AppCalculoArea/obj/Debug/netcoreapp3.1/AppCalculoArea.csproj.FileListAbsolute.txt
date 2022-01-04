@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.exe
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.deps.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.runtimeconfig.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.dll
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\bin\Debug\netcoreapp3.1\AppCalculoArea.pdb
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.dll
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.pdb
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppCalculoArea\AppCalculoArea\AppCalculoArea\obj\Debug\netcoreapp3.1\AppCalculoArea.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.exe
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.deps.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.runtimeconfig.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.dll
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\bin\Debug\netcoreapp3.1\PagamentoFuncionario.pdb
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.dll
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.pdb
+C:\Users\HP\Desktop\Projetos\CursoNelioAlves\AppPagamento\PagamentoFuncionario\PagamentoFuncionario\obj\Debug\netcoreapp3.1\PagamentoFuncionario.genruntimeconfig.cache
