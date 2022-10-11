@@ -39,6 +39,7 @@ namespace Exercicio03
         public string detalhes(){
             return $" Titulo: {Titulo},\n Autor: {Autor},\n Total de Paginas: {ToPaginas},\n Página Atual: {PagAtual},\n Aberto: {Aberto},\n Leitor: {Leitor.Nome},\n Sexo: {Leitor.Sexo}";
         }
+        
         public void abrir()
         {
             Aberto = true;
@@ -53,23 +54,17 @@ namespace Exercicio03
         public void folhear(int p)
         {
             if (p > ToPaginas)
-            {
                 Console.WriteLine("Página inválida");
-            }
             else
-            {
                 PagAtual = p;
-            }
         }
 
         public void avancarPag()
         {
             if(PagAtual < ToPaginas)
-            {
                 PagAtual++;
-            }else{
+            else
                 Console.WriteLine("Não há mais páginas");
-            }
         }
 
         public void voltarPag()

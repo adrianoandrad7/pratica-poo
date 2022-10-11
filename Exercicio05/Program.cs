@@ -22,10 +22,6 @@ namespace Exercicio05
             cg.emitirSom();
             c.emitirSom();
 
-                   
-
-
-
         }
     }
 }

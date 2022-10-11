@@ -11,13 +11,9 @@ namespace Exercicio04
       public void mudaTrabalho()
       {
         if (Trabalhando)
-        {
           Trabalhando = false;
-        }
         else
-        {
           Trabalhando = true;
-        }
       }
         
     }

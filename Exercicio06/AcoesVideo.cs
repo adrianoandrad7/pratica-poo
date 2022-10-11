@@ -7,7 +7,5 @@ namespace Exercicio06
         void play();
         void pause();
         void like();
-
-        
     } 
 }
